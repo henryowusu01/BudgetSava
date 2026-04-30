@@ -72,6 +72,16 @@ BudgetSava is a simple and user-friendly Android application developed in Kotlin
 - MPAndroidChart
 
 ---
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+https://github.com/henryowusu01/BudgetSava.git
+
+2. Open the project in Android Studio 
+
+3. Sync Gradle and build the project
+
+4. Run the app on an emulator or physical device
 
 ## 📱 App Flow
 
