@@ -34,7 +34,7 @@ BudgetSava is a simple and user-friendly Android application developed in Kotlin
 
 ---
 
-### 📷 Photo Attachment
+### 📷 Photo Attachment(Currently not working properly)
 - Option to attach a photo to each expense  
 - Stored locally and accessible when viewing expenses  
 
