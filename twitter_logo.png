@@ -1,0 +1,3 @@
+package com.example.BudgetSava
+
+annotation class LimitLine(val minGoal: Float, val string: String)
